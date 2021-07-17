@@ -1,4 +1,4 @@
-# dio-desafio-github
+# Desafio projeto-github
 
 Repositorio desafio sobre Git/Github Dio.
 
